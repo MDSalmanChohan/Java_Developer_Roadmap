@@ -1,0 +1,40 @@
+# 🧭 Java Developer Roadmap – 2025 Edition
+
+This repository contains a step-by-step roadmap to become a professional Java Developer, including topics, resources, and project ideas.
+
+---
+
+## 📌 Core Sections
+
+- ✅ Java Basics to Advanced
+- ✅ Object-Oriented Programming
+- ✅ JDBC, Hibernate
+- ✅ Spring Boot & Spring MVC
+- ✅ REST API Development
+- ✅ MySQL & MongoDB
+- ✅ Java 8 Features (Streams, Lambdas)
+- ✅ Docker, CI/CD Basics
+- ✅ Microservices & JWT Auth
+- ✅ Generative AI Integration (ChatGPT APIs)
+
+---
+
+## 🚀 Project Ideas
+
+- Doctor-Patient Matching System
+- Job Portal Backend (Spring Boot)
+- AI Resume Generator (OpenAI + Spring Boot)
+- Secure REST API with JWT + Spring Security
+
+---
+
+## 📚 Resources
+
+See [resources/](resources/) folder for books, YouTube channels, and notes.
+
+---
+
+## 🤝 Contributions Welcome
+
+Feel free to fork, star, or raise a PR to improve this roadmap.
+
